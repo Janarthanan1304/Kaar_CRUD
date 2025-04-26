@@ -93,5 +93,3 @@ The project structure is as follows:
 ## 🤝 Contributing
 
 Feel free to **fork** this repo, **improve** it, and **create pull requests**. Contributions are welcome!
-
----
