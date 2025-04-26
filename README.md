@@ -53,7 +53,7 @@ Server will start at: http://localhost:5000
 - Postman – for testing the API
 
 📁 Project Structure
-
+The project structure is as follows:
 ├── data_base/
 │ └── task.js
 ├── api/
