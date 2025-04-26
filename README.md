@@ -55,6 +55,14 @@ Server will start at: http://localhost:5000
 📁 Project Structure
 The project structure is as follows:
 
+| Method |
+| --- | --- | --- |
+| POST | /api/tasks | Create a new task |
+| GET | /api/tasks | Get all tasks |
+| GET | /api/tasks/:id | Get task by ID |
+| PUT | /api/tasks/:id | Update task by ID |
+| DELETE | /api/tasks/:id | Delete task by ID |
+
 | ├── data_base/ |
 | │ └── task.js |
 | ├── api/ |
