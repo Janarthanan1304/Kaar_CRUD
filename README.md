@@ -82,8 +82,7 @@ The project structure is as follows:
 ├── .env
 ├── .gitignore
 ├── server.js
-├── package.json
-└── node_modules/
+└── package.json
 ```
 
 ---
