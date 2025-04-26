@@ -58,9 +58,9 @@ The project structure is as follows:
 | 📁 Project Structure |
 | --- |
 | ├── data_base/ |
-| │ └── task.js |
+|     └── task.js |
 | ├── api/ |
-| │ └── routes.js |
+|     └── routes.js |
 | ├── .env |
 | ├── .gitignore |
 | ├── server.js |
