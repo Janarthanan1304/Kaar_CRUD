@@ -55,7 +55,7 @@ Server will start at: http://localhost:5000
 📁 Project Structure
 The project structure is as follows:
 
-| Method |
+| Method | Endpoint | Description |
 | --- | --- | --- |
 | POST | /api/tasks | Create a new task |
 | GET | /api/tasks | Get all tasks |
