@@ -22,7 +22,7 @@ A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mon
 
 1. Clone the Repository
     bash
-    git clone https://github.com/your-username/node-task-api.git
+    git clone https://github.com/Janarthanan1304/node-task-api.git
     cd node-task-api
 
 2. Install Dependencies
@@ -32,10 +32,10 @@ A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mon
 
 3. Run the Server
 
-***sh
+**sh
 npm run dev
 Server will start at: http://localhost:5000
-***
+**
 
 ## 📮 API Endpoints
 
