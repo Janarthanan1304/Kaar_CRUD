@@ -1,5 +1,3 @@
-Here’s the content rewritten in a more structured README format:
-
 ---
 
 # 🧩 Node.js Task API with MongoDB
