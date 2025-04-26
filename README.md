@@ -95,5 +95,3 @@ The project structure is as follows:
 Feel free to **fork** this repo, **improve** it, and **create pull requests**. Contributions are welcome!
 
 ---
-
-This format follows a typical README structure and includes all the necessary information for someone to get started with your project. Let me know if you'd like to make any changes!
