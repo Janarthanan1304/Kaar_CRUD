@@ -1,6 +1,6 @@
 ---
 
-# 🧩 Node.js Task API with MongoDB
+# 🧩 Node.js Task with MongoDB
 
 A simple and efficient API built using **Node.js**, **Express.js**, and **MongoDB** (via **Mongoose**) for task management.
 
