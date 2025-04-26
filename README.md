@@ -52,11 +52,8 @@ Server will start at: http://localhost:5000
 - MongoDB Atlas – for database
 - Postman – for testing the API
 
+📁 Project Structure
 
-The project structure is as follows:
-
-| 📁 Project Structure |
-| --- |
 ├── data_base/
     └── task.js
 ├── api/
