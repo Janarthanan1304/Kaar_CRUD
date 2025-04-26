@@ -33,7 +33,9 @@ A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mon
 3. Run the Server
 
 bash
+'''
 npm run dev
+'''
 Server will start at: http://localhost:5000
 
 ## 📮 API Endpoints
