@@ -55,14 +55,14 @@ Server will start at: http://localhost:5000
 📁 Project Structure
 The project structure is as follows:
 
-├── data_base/
-│ └── task.js
-├── api/
-│ └── routes.js
-├── .env
-├── .gitignore
-├── server.js
-├── package.json
-└── README.md
+| ├── data_base/ |
+| │ └── task.js |
+| ├── api/ |
+| │ └── routes.js |
+| ├── .env |
+| ├── .gitignore |
+| ├── server.js |
+| ├── package.json |
+| └── README.md |
 
 Feel free to fork this repo, improve it, and create pull requests. Contributions are welcome!
