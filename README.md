@@ -56,11 +56,11 @@ Server will start at: http://localhost:5000
 The project structure is as follows:
 ├── data_base/
 
-│ └── task.js
+  │ └── task.js
 
 ├── api/
 
-│ └── routes.js
+  │ └── routes.js
 
 ├── .env
 
@@ -70,6 +70,6 @@ The project structure is as follows:
 
 ├── package.json
 
-└── node_modules/
+└── README.md
 
 Feel free to fork this repo, improve it, and create pull requests. Contributions are welcome!
