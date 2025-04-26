@@ -31,12 +31,10 @@ A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mon
     npm install
 
 3. Run the Server
-
-    bash
-    ***sh
-    npm run dev
-    Server will start at: http://localhost:5000
-    ***
+***sh
+npm run dev
+Server will start at: http://localhost:5000
+***
 ## 📮 API Endpoints
 
 | Method | Endpoint | Description |
