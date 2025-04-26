@@ -1,8 +1,8 @@
-🧩 Node.js Task API with MongoDB
+## 🧩 Node.js Task API with MongoDB
 
 A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mongoose) for task management.
 
-📦 Features
+## 📦 Features
 
 ✅ Create a new task
 📄 Get all tasks
@@ -10,7 +10,7 @@ A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mon
 ✏ Update a task
 ❌ Delete a task
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 * Node.js
 * Express.js
@@ -18,26 +18,26 @@ A simple and efficient API built using Node.js, Express.js, and MongoDB (via Mon
 * dotenv – for environment variable management
 * nodemon – for hot-reloading during development
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-1. Clone the Repository
+# 1. Clone the Repository
 bash
 git clone https://github.com/your-username/node-task-api.git
 cd node-task-api
 
-2. Install Dependencies
+# 2. Install Dependencies
 
 bash
 npm install
 
-3. Run the Server
+# 3. Run the Server
 
 bash
 npm run dev
 
 Server will start at: http://localhost:5000
 
-📮 API Endpoints
+## 📮 API Endpoints
 
 | Method | Endpoint | Description |
 | --- | --- | --- |
@@ -47,10 +47,10 @@ Server will start at: http://localhost:5000
 | PUT | /api/tasks/:id | Update task by ID |
 | DELETE | /api/tasks/:id | Delete task by ID |
 
-🔗 Tools
+## 🔗 Tools
 
-- MongoDB Atlas – for database
-- Postman – for testing the API
+# MongoDB Atlas – for database
+# Postman – for testing the API
 
 ## 📁 Project Structure
 
